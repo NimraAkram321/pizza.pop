@@ -1,0 +1,65 @@
+body{
+    background-color: #28272c !important;
+    color:#fff !important;
+}
+.logo{
+    width: 10% !important;
+
+}
+#img{
+    width: 20px;
+}
+.navlogo{
+    font-family: 'Dancing Script', cursive;
+}
+.head{
+    padding-top: 50px;
+}
+
+hr{
+   width: 20%;
+   
+}
+#meals{
+    font-family: 'Mali', cursive;
+}
+.bottom-container{
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 5%;
+}
+.footer-link{
+   padding: 1%;
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.footer-link:hover{
+    color: coral;
+    text-decoration: none;
+}
+.copyright{
+    padding-top: 2%;
+}
+.spacing{
+    padding-top: 7%;
+    text-align: center;
+}
+.font{
+    font-family: 'Mali', cursive;
+}
+.contact-us{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.contact-head{
+    text-align: center;
+    font-family: 'Mali', cursive;
+}
+.main-heading{
+    padding: 5%;
+
+}
+.form-control{
+    line-height-step: 5%;
+}
